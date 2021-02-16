@@ -2,7 +2,7 @@
 #include "holberton.h"
 /**
  * reset_to_98 - function to reset the pinters location to 98
-*
+* @n: pointer value
 *
 *
 */

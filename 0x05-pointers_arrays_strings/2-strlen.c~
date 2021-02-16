@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include "holberton.h"
+/**
+ * _strlen - function to calculate lengeth of a string
+ * @s: string passed
+ */
+int _strlen(char *s)
+{
+int len;
+len = strlen(*s);
+return (len);
+}
