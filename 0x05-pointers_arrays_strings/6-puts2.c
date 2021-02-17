@@ -1,5 +1,5 @@
 #include<stdio.h>
-#include "holberthon.h"
+#include "holberton.h"
 /**
  * puts2 - print every other character
  * @str: string
